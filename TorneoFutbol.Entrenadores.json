@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6379db71234567890abcde19"
+  },
+  "nombre": "José Hernández",
+  "nacionalidad": "Colombia",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "equipos_dirigidos": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde13"
+      },
+      "nombre": "Atlético Bosa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde20"
+  },
+  "nombre": "Carlos López",
+  "nacionalidad": "Colombia",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "equipos_dirigidos": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde15"
+      },
+      "nombre": "Deportivo Bosa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde30"
+  },
+  "nombre": "María Pérez",
+  "nacionalidad": "Colombia",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "equipos_dirigidos": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde17"
+      },
+      "nombre": "Real Bosa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6378a5678912345678901234"
+  },
+  "nombre": "Juan Manuel Sánchez",
+  "nacionalidad": "Colombia",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "equipos_dirigidos": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde41"
+      },
+      "nombre": "Los Pumas"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde50"
+  },
+  "nombre": "Carlos Antonio Rodríguez",
+  "nacionalidad": "Colombia",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "equipos_dirigidos": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde43"
+      },
+      "nombre": "Tigres del Valle"
+    }
+  ]
+}]

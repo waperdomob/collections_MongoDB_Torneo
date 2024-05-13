@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6379db71234567890abcde12"
+  },
+  "nombre": "Juan Pérez",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "nacionalidad": "Colombia",
+  "equipo_id": {
+    "$oid": "6379db71234567890abcde13"
+  },
+  "posicion": "Delantero",
+  "dorsal": 10,
+  "goles_marcados": 5,
+  "tarjetas_amarillas": 2,
+  "tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde14"
+  },
+  "nombre": "Carlos Martínez",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "nacionalidad": "Colombia",
+  "equipo_id": {
+    "$oid": "6379db71234567890abcde15"
+  },
+  "posicion": "Defensa",
+  "dorsal": 5,
+  "goles_marcados": 0,
+  "tarjetas_amarillas": 1,
+  "tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde16"
+  },
+  "nombre": "David Sánchez",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "nacionalidad": "Colombia",
+  "equipo_id": {
+    "$oid": "6379db71234567890abcde17"
+  },
+  "posicion": "Mediocampista",
+  "dorsal": 8,
+  "goles_marcados": 2,
+  "tarjetas_amarillas": 0,
+  "tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde18"
+  },
+  "nombre": "Andrés Rodríguez",
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "nacionalidad": "Colombia",
+  "equipo_id": {
+    "$oid": "6379db71234567890abcde13"
+  },
+  "posicion": "Portero",
+  "dorsal": 1,
+  "goles_marcados": 0,
+  "tarjetas_amarillas": 0,
+  "tarjetas_rojas": 0
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde40"
+  },
+  "nombre": "Ana López",
+  "posicion": "Defensa",
+  "dorsal": 2,
+  "fecha_nacimiento": {
+    "$date": "1970-01-01T00:00:00.000Z"
+  },
+  "nacionalidad": "Colombia",
+  "pie_dominante": "Derecho",
+  "equipo_id": {
+    "$oid": "6379db71234567890abcde17"
+  },
+  "tarjetas_amarillas": 0,
+  "tarjetas_rojas": 0
+}]

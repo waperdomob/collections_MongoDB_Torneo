@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "6379db71234567890abcde21"
+  },
+  "nombre": "Juan Gómez",
+  "nacionalidad": "Colombia",
+  "partidos_arbitrados": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde23"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde13"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde15"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde25"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde17"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde15"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde22"
+  },
+  "nombre": "Carlos Pérez",
+  "nacionalidad": "Colombia",
+  "partidos_arbitrados": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde24"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde13"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde17"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde26"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde15"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde17"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde45"
+  },
+  "nombre": "Pedro Martínez",
+  "nacionalidad": "Colombia",
+  "partidos_arbitrados": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde46"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde13"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde41"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde47"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde15"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde43"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde4a"
+  },
+  "nombre": "Juan Rodríguez",
+  "nacionalidad": "Colombia",
+  "partidos_arbitrados": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde4b"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde43"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde41"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde4c"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde13"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde15"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde4d"
+  },
+  "nombre": "Andres García",
+  "nacionalidad": "Colombia",
+  "partidos_arbitrados": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde4e"
+      },
+      "fecha": {
+        "$date": "1970-01-01T00:00:00.000Z"
+      },
+      "equipo_local_id": {
+        "$oid": "6379db71234567890abcde17"
+      },
+      "equipo_visitante_id": {
+        "$oid": "6379db71234567890abcde41"
+      }
+    }
+  ]
+}]

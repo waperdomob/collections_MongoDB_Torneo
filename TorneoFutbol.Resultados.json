@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "6379db71234567890abcde65"
+  },
+  "encuentro_id": {
+    "$oid": "6379db71234567890abcde63"
+  },
+  "descripcion": "Los Pumas vencieron a Tigres del Valle por 2-1 en un emocionante encuentro. Los locales tomaron la delantera en el primer tiempo con un gol de cabeza de Juan Gómez, y ampliaron la ventaja en el segundo tiempo con un golazo de tiro libre de Carlos Martínez. Tigres del Valle descontó en el minuto 80 con un tanto de penalti convertido por Diego López, pero no pudo evitar la derrota.",
+  "estadisticas": {
+    "tiros_a_puerta_local": 10,
+    "tiros_a_puerta_visitante": 5,
+    "tiros_libres_local": 3,
+    "tiros_libres_visitante": 2,
+    "corners_local": 4,
+    "corners_visitante": 3,
+    "posesion_local": 55,
+    "posesion_visitante": 45,
+    "tarjetas_amarillas_local": 1,
+    "tarjetas_amarillas_visitante": 2,
+    "tarjetas_rojas_local": 0,
+    "tarjetas_rojas_visitante": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde66"
+  },
+  "encuentro_id": {
+    "$oid": "6379db71234567890abcde64"
+  },
+  "descripcion": "Tigres del valle derrotaron con la minima diferencia al Real Bosa en un partido disputado y sin muchas ocasiones de gol. ",
+  "estadisticas": {
+    "tiros_a_puerta_local": 4,
+    "tiros_a_puerta_visitante": 3,
+    "tiros_libres_local": 2,
+    "tiros_libres_visitante": 1,
+    "corners_local": 3,
+    "corners_visitante": 2,
+    "posesion_local": 52,
+    "posesion_visitante": 48,
+    "tarjetas_amarillas_local": 0,
+    "tarjetas_amarillas_visitante": 0,
+    "tarjetas_rojas_local": 0,
+    "tarjetas_rojas_visitante": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde25"
+  },
+  "encuentro_id": {
+    "$oid": "6379db71234567890abcde25"
+  },
+  "descripcion": "los Pumas empató 0-0 con Deportivo Bosa en un vibrante encuentro.",
+  "estadisticas": {
+    "tiros_a_puerta_local": 7,
+    "tiros_a_puerta_visitante": 6,
+    "tiros_libres_local": 3,
+    "tiros_libres_visitante": 2,
+    "corners_local": 5,
+    "corners_visitante": 4,
+    "posesion_local": 53,
+    "posesion_visitante": 47,
+    "tarjetas_amarillas_local": 1,
+    "tarjetas_amarillas_visitante": 1,
+    "tarjetas_rojas_local": 0,
+    "tarjetas_rojas_visitante": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde24"
+  },
+  "encuentro_id": {
+    "$oid": "6379db71234567890abcde24"
+  },
+  "descripcion": "Atlético Bosa venció a Real Bosa por 3-1 en un partido dominado de principio a fin por los locales. ",
+  "estadisticas": {
+    "tiros_a_puerta_local": 12,
+    "tiros_a_puerta_visitante": 4,
+    "tiros_libres_local": 4,
+    "tiros_libres_visitante": 1,
+    "corners_local": 6,
+    "corners_visitante": 2,
+    "posesion_local": 62,
+    "posesion_visitante": 38,
+    "tarjetas_amarillas_local": 0,
+    "tarjetas_amarillas_visitante": 1,
+    "tarjetas_rojas_local": 0,
+    "tarjetas_rojas_visitante": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde26"
+  },
+  "encuentro_id": {
+    "$oid": "6379db71234567890abcde26"
+  },
+  "descripcion": "Real Bosa venció al deportivo Bosa por 2-1 en un partido reñido. Los visitantes tomaron la delantera en el primer tiempo con un gol de tiro libre de Pedro Pérez, y ampliaron la ventaja en el segundo tiempo con un tanto de cabeza de Diego López. Los locales descontaron en el minuto 80 con un gol de penalti convertido por Juan Gómez, pero no pudieron evitar la derrota.",
+  "estadisticas": {
+    "tiros_a_puerta_local": 5,
+    "tiros_a_puerta_visitante": 8,
+    "tiros_libres_local": 2,
+    "tiros_libres_visitante": 3,
+    "corners_local": 4,
+    "corners_visitante": 5,
+    "posesion_local": 48,
+    "posesion_visitante": 52,
+    "tarjetas_amarillas_local": 2,
+    "tarjetas_amarillas_visitante": 1,
+    "tarjetas_rojas_local": 1,
+    "tarjetas_rojas_visitante": 0
+  }
+}]

@@ -1,0 +1,207 @@
+[{
+  "_id": {
+    "$oid": "6379db71234567890abcde13"
+  },
+  "nombre": "Atlético Bosa",
+  "pais": "Colombia",
+  "entrenador_id": {
+    "$oid": "6379db71234567890abcde19"
+  },
+  "jugadores": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde12"
+      },
+      "nombre": "Juan Pérez",
+      "posicion": "Delantero",
+      "dorsal": 10
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde14"
+      },
+      "nombre": "Carlos Martínez",
+      "posicion": "Defensa",
+      "dorsal": 5
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde16"
+      },
+      "nombre": "David Sánchez",
+      "posicion": "Mediocampista",
+      "dorsal": 8
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde18"
+      },
+      "nombre": "Andrés Rodríguez",
+      "posicion": "Portero",
+      "dorsal": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde15"
+  },
+  "nombre": "Deportivo Bosa",
+  "pais": "Colombia",
+  "entrenador_id": {
+    "$oid": "6379db71234567890abcde20"
+  },
+  "jugadores": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde26"
+      },
+      "nombre": "Pedro López",
+      "posicion": "Delantero",
+      "dorsal": 9
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde27"
+      },
+      "nombre": "Marco Ramírez",
+      "posicion": "Defensa",
+      "dorsal": 4
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde28"
+      },
+      "nombre": "Luis Hernández",
+      "posicion": "Mediocampista",
+      "dorsal": 6
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde29"
+      },
+      "nombre": "Fabio González",
+      "posicion": "Portero",
+      "dorsal": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde17"
+  },
+  "nombre": "Real Bosa",
+  "pais": "Colombia",
+  "entrenador_id": {
+    "$oid": "6379db71234567890abcde30"
+  },
+  "jugadores": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde31"
+      },
+      "nombre": "Ricardo Morales",
+      "posicion": "Delantero",
+      "dorsal": 7
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde32"
+      },
+      "nombre": "Juan García",
+      "posicion": "Defensa",
+      "dorsal": 3
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde33"
+      },
+      "nombre": "Carlos Gómez",
+      "posicion": "Mediocampista",
+      "dorsal": 10
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde34"
+      },
+      "nombre": "Miguel Rodríguez",
+      "posicion": "Portero",
+      "dorsal": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde41"
+  },
+  "nombre": "Los Pumas",
+  "pais": "Colombia",
+  "entrenador_id": {
+    "$oid": "6379db71234567890abcde42"
+  },
+  "jugadores": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde40"
+      },
+      "nombre": "Ana López"
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde49"
+      },
+      "nombre": "Juan Gómez"
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde53"
+      },
+      "nombre": "Carlos Sánchez"
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde54"
+      },
+      "nombre": "María Gómez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6379db71234567890abcde43"
+  },
+  "nombre": "Tigres del Valle",
+  "pais": "Colombia",
+  "entrenador_id": {
+    "$oid": "6379db71234567890abcde44"
+  },
+  "capitan_id": {
+    "$oid": "6379db71234567890abcde50"
+  },
+  "jugadores": [
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde51"
+      },
+      "nombre": "Pedro Martínez"
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde52"
+      },
+      "nombre": "María Pérez"
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde55"
+      },
+      "nombre": "Ana Rodríguez"
+    },
+    {
+      "_id": {
+        "$oid": "6379db71234567890abcde56"
+      },
+      "nombre": "Juan López"
+    }
+  ]
+}]
